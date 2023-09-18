@@ -6,6 +6,7 @@ MERN Stack CRUD built with React v17+, RRDv6
 
 [Download](https://github.com/jackbalageru/MERN-CRUD) | [Developer Portfolio](https
 
+
 **Developed with ❤️ by [Henok R. Bedassa](https://henok.us/). If you love my project please st
 
 ## Table View
